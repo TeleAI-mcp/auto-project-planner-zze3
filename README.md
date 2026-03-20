@@ -1,2 +1,3 @@
-# auto-project-planner-zze3
-Automated issue comment bot repository
+# Auto Project Planner Zze3
+
+Automated issue comment bot repository.
